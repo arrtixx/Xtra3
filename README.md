@@ -10,7 +10,7 @@ StrindEndsWith() - Checks if a string ends with a given suffix
 StringStartsWith() - Checks if a string starts with a given prefix
 StringContains() - Checks if a string contains a given substring
 StringCount() - Counts the number of times a substring occurs in a string
-StringRepeat() - epeats a string n times, with an optional separator between each repetition
+StringRepeat() - Repeats a string n times, with an optional separator between each repetition
 RemoveCharsUntilDiff() - Removes characters from a string until it is different from a given character, starting from a given (0-based) index
 TrimChar() - Trims a string, trimming a given character
 StringTrim() - Trims a string, trimming a given character or a set of characters if specified, otherwise trims all whitespaces, tabs and newlines
