@@ -1,7 +1,6 @@
 -- Xtra^3 (or Xtra3 or Xtra cubed)
 --     Xtra^3 is a library (ModuleScript), that adds various functions (primarely with the 0-based index system) to use in your scripts
 -- Import with `local lib = require(<path to this ModuleScript>)` in your scripts
--- Copyright (c) 2025/2026 Arrtix_x
 
 local Xtra3 = {}
 
